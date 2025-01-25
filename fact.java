@@ -26,7 +26,7 @@ public static void main(String args[])
 	{
 		fact obj=new fact(5);
 		fact obj2=new fact(obj);
-		System.out.println("Factorial: "+obj.factorial);
+		System.out.print("Factorial: "+obj.factorial);
 
 	}
 }
